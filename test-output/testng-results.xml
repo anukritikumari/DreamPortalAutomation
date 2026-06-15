@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-15T22:40:19 IST" name="Default suite" finished-at="2026-06-15T22:40:39 IST" duration-ms="20662">
+    <groups>
+    </groups>
+    <test started-at="2026-06-15T22:40:19 IST" name="Default test" finished-at="2026-06-15T22:40:39 IST" duration-ms="20662">
+      <class name="tests.DreamPortalTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.DreamPortalTest@799f10e1]" started-at="2026-06-15T22:40:19 IST" name="setup" finished-at="2026-06-15T22:40:30 IST" duration-ms="11403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDreamPortal()[pri:0, instance:tests.DreamPortalTest@799f10e1]" started-at="2026-06-15T22:40:30 IST" name="verifyDreamPortal" finished-at="2026-06-15T22:40:39 IST" duration-ms="8816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDreamPortal -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.DreamPortalTest@799f10e1]" started-at="2026-06-15T22:40:39 IST" name="tearDown" finished-at="2026-06-15T22:40:39 IST" duration-ms="372" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyDreamPortal status=SUCCESS method=DreamPortalTest.verifyDreamPortal()[pri:0, instance:tests.DreamPortalTest@799f10e1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.DreamPortalTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
